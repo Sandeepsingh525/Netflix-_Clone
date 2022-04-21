@@ -1,3 +1,5 @@
 # Netflix_Clone
-Using ReactJS and firebase
+Using ReactJS and firebase and
 Fetching Movie data Using TMDB API
+
+
